@@ -1,0 +1,8 @@
+{
+  "name": "حساباتي",
+  "description": "تطبيق متكامل لإدارة الحسابات المالية، السندات، العمليات، والتقارير المالية",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
